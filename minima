@@ -1,0 +1,9 @@
+title: qqq
+author: lsynewwrold
+email:lsynewworld@163.com
+description: lsynewworld
+# social links
+twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  lsynewworld # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
